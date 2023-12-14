@@ -16,7 +16,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/justindujardin/mathy",
     packages=setuptools.find_packages(),
-    install_requires=["svgwrite"],
+    install_requires=["svgwrite", "mathy_core", "mathy_envs"],
     classifiers=(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
