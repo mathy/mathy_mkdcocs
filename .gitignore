@@ -1,0 +1,36 @@
+*.pyc
+.DS_Store
+.env
+.pytest_cache
+.mypy_cache
+# node
+node_modules
+.cache
+# python coverage
+.coverage
+.coverage.*
+coverage.xml
+htmlcov
+
+/training/
+/hoarding/
+/images/
+
+.env
+venv
+*.orig
+
+__pycache__
+*.egg-info
+
+.vscode
+
+node_modules
+dist
+build
+coverage
+
+libraries/website/site/
+
+
+.ipynb_checkpoints

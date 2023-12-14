@@ -1,0 +1,7 @@
+# IMPORTANT: This file isn't used in setup.py..
+pydot
+pytest
+pytest-cov
+svgwrite
+mathy_core
+mathy_envs
